@@ -1,0 +1,14 @@
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\BLL.Bakkal.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\BLL.Bakkal.pdb
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\DAL.Bakkal.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\EntityFramework.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\DAL.Bakkal.pdb
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\DAL.Bakkal.dll.config
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\EntityFramework.xml
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\obj\Debug\BLL.Bakkal.csprojAssemblyReference.cache
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\obj\Debug\BLL.Bakkal.csproj.CoreCompileInputs.cache
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\obj\Debug\BLL.Bakkal.csproj.CopyComplete
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\obj\Debug\BLL.Bakkal.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\BLL.Bakkal\obj\Debug\BLL.Bakkal.pdb

@@ -1,0 +1,12 @@
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\DAL.Bakkal.dll.config
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\DAL.Bakkal.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\DAL.Bakkal.pdb
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\EntityFramework.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\EntityFramework.xml
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\obj\Debug\DAL.Bakkal.csprojAssemblyReference.cache
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\obj\Debug\DAL.Bakkal.csproj.CoreCompileInputs.cache
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\obj\Debug\DAL.Bakkal.csproj.CopyComplete
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\obj\Debug\DAL.Bakkal.dll
+C:\Users\Defne\Desktop\projeler\bakkalOtomasyon-master\bakkalOtomasyon-master\DAL.Bakkal\obj\Debug\DAL.Bakkal.pdb
